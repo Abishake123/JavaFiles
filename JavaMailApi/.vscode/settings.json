@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\abish\\OneDrive\\Desktop\\java\\mail-1.5.0-b01.jar",
+        "c:\\Users\\abish\\OneDrive\\Desktop\\java\\activation-1.1.1.jar"
+    ]
+}
